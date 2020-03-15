@@ -15,3 +15,5 @@ Taxa de atualização do Mouse:	1000
 Sensibilidade do Windows 10:	Padrão
 Raw Input:						ON
 Mouse Aceleration:				OFF
+
+drkID: 205745903
