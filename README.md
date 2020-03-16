@@ -16,4 +16,5 @@ Sensibilidade do Windows 10:	Padrão
 Raw Input:						ON
 Mouse Aceleration:				OFF
 
-drkID: 205745903
+drkID:      205745903
+drakoID:    98611795
