@@ -10,7 +10,7 @@ Config for CS:GO
 
 # Sensibilidade
 Mouse:							400 DPI
-Sensitivy:						2.4
+Sensitivy:						2.0
 Taxa de atualização do Mouse:	1000
 Sensibilidade do Windows 10:	Padrão
 Raw Input:						ON
