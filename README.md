@@ -9,12 +9,9 @@ Config for CS:GO
 1920 x 1080
 
 # Sensibilidade
-Mouse:							400 DPI
-Sensitivy:						2.0
+Mouse:							800 DPI
+Sensitivy:						1.4
 Taxa de atualização do Mouse:	1000
 Sensibilidade do Windows 10:	Padrão
 Raw Input:						ON
 Mouse Aceleration:				OFF
-
-drkID:      205745903
-drakoID:    98611795
