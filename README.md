@@ -8,10 +8,10 @@ Config for CS:GO
 16:9
 1920 x 1080
 
-# Sensibilidade
-Mouse:							800 DPI
-Sensitivy:						1.4
-Taxa de atualização do Mouse:	1000
-Sensibilidade do Windows 10:	Padrão
-Raw Input:						ON
-Mouse Aceleration:				OFF
+# Configs de Sensibilidade do mouse
+## Mouse:							800 DPI
+## Sensitivy:						1.4
+## Taxa de atualização do Mouse:	1000
+## Sensibilidade do Windows 10:	Padrão
+## Raw Input:						ON
+## Mouse Aceleration:				OFF
